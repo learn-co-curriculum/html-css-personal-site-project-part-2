@@ -17,7 +17,7 @@ It is time to put what you have learned into practice and grow confidence by bui
 
 4. Place at least one image into the images folder. 
 
-5. Next, open your favorite code editor and make sure to include at the minimum the following things in your projects HTML page(s):
+5. Next in the text editor area of the IDE and make sure to include at the minimum the following things in your projects HTML page(s):
   - link
   - image
   - heading
